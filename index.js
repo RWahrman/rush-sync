@@ -1,7 +1,8 @@
 const DOMAIN = process.env.DOMAIN
 const KEY = process.env.KEY
 
-//DO NOT EDIT BELOW THIS LINE
+console.log('DOMAIN:', DOMAIN)
+console.log('KEY:', KEY)
 
 const axios = require('axios')
 
