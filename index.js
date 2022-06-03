@@ -1,5 +1,5 @@
-const DOMAIN = 'rwrushsandbox'
-const KEY = 'Basic MjkyYjdmYjQtYThmYS00NGNlLWJlMWQtYmNkOTgzODA3Nzk4OmI2NWI0MDRiLTM2OGEtNGZkNS1iZTQ1LWJkNGM5NjBkMzZkNA=='
+const DOMAIN = process.env.DOMAIN
+const KEY = process.env.KEY
 
 //DO NOT EDIT BELOW THIS LINE
 
